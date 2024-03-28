@@ -1,2 +1,2 @@
 # baca_p1
-tasks from first academic term 
+projects from first academic term 
