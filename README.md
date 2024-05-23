@@ -1,2 +1,2 @@
-# baca_p1
+# programming1_tasks
 Interesting C++ projects from first academic term.
